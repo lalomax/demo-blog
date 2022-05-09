@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    font-weight: 300;
+}
+
+
+.container {
+    width: 570px;
+    margin: 0 auto;
+}
+
+h1, h2 {
+  font-weight: bold;
+  
+}
+ h1:first-line, h2:first-line {
+   font-weight: 300;
+ }
+
+h1 {
+  font-size: 80px;
+}
+
+h2 {
+  font-size: 60px;
+}
+h3 {
+  font-size : 36px;
+  font-weight: 900;
+}
+
+.tiny {
+  font-size: small;
+}
+
+  a {
+    color : #99d930;
+    font-weight: 900;
+  }
+
+  a:hover,
+    a:focus {
+  color: #131313;
+  }
